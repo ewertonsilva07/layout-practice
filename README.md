@@ -1,1 +1,1 @@
-# layout-practice
+# Practicing with HTML and CSS
