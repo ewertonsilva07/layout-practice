@@ -1,0 +1,26 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+header {
+    height: 300px;
+    background-image: url(../images/mink-mingle-pug-unsplash-small.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#headerShadow {
+    height: 100%;
+    background-color: #00000062;
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    font-size: 8rem;
+    margin-left: 20px;
+    color: #FFF;
+    font-family: 'Lilita One', sans-serif;
+}
