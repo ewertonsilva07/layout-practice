@@ -51,7 +51,10 @@ nav ul {
 }
 
 .section-title {
-    font-size: 2rem;
+    margin-top: 20px;
+    font-size: 3rem;
+    text-decoration: underline #00c3ff;
+    text-decoration-thickness: 5px;
 }
 
 .pug-pictures {
